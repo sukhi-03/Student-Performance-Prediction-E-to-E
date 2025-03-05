@@ -8,3 +8,4 @@
 ### Day 2
 >Components folder to setup modules <br>
 >module files made <br>
+>Logging and exception handling done <br>
