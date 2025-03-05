@@ -1,11 +1,10 @@
 ## End-to-end Prediction of Student Performance ML model
 
 ### Day 1
->Git repo made
->Setup.py made
->Local setup for project
->Learnt use cases of setup.py and '-e .'
-
+>Git repo made <br>
+>Setup.py made <br>
+>Local setup for project <br>
+>Learnt use cases of setup.py and '-e .' <br>
 ### Day 2
->Components folder to setup modules
->module files made
+>Components folder to setup modules <br>
+>module files made <br>
