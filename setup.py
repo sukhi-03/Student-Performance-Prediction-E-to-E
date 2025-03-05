@@ -23,6 +23,6 @@ setup(
     description='End-to-end Prediction of Student Performance',
     author='Asura',
     author_email='suryakantpandidhar@gmail.com',
-    url='https://github.com/asura-enkhbayar/stud_performance_pred',
+    url='https://github.com/sukhi-03/Student-Performance-Prediction-E-to-E',
     packages=find_packages(),
     install_requires=get_requirements('requirements.txt'))
