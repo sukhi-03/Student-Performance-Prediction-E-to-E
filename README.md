@@ -5,3 +5,7 @@
 >Setup.py made
 >Local setup for project
 >Learnt use cases of setup.py and '-e .'
+
+### Day 2
+>Components folder to setup modules
+>module files made
