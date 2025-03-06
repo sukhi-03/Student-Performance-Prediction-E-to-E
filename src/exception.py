@@ -1,4 +1,5 @@
 import sys 
+from src.logger import logging
 
 def error_message_detail(error,error_detail:sys):
     _,_,exc_tb = error_detail.exc_info() #excecutaion info, last info give exe_tb (on which file, on which line number, etc)
